@@ -12,7 +12,7 @@ We will keep this fork for a while but may evantually delete it in the future.
 
 This repository contains a fork of the [mmdetection](https://github.com/open-mmlab/mmdetection) 
 toolbox with code to test models on coprrupted images. It was created as a part of the 
-[Robust Detection Benchmark Suite](https://github.com/bethgelab/robust_detection_benchmark) and has been 
+[Robust Detection Benchmark Suite](https://github.com/bethgelab/robust-detection-benchmark) and has been 
 submitted to mmdetection as [pull request](https://github.com/open-mmlab/mmdetection/pulls).
 
 The benchmarking toolkit is part of the paper [Benchmarking Robustness in Object Detection: Autonomous Driving when Winter is Coming](https://arxiv.org/abs/1907.07484).
@@ -37,7 +37,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 Results for standard models are available in [ROBUSTNESS_BENCHMARKING.md](ROBUSTNESS_BENCHMARKING.md).
 For up-to-date results have a look at the 
-[official benchmark homepage](https://github.com/bethgelab/robust_detection_benchmark).
+[official benchmark homepage](https://github.com/bethgelab/robust-detection-benchmark).
 
 
 ## Installation
