@@ -1,6 +1,12 @@
 
 # MMDetection with Robustness Benchmarking
 
+## Important Notice! 
+
+This pull request was [merged](https://github.com/open-mmlab/mmdetection/pull/1021)!
+Please use the original [mmdetection](https://github.com/open-mmlab/mmdetection) toolbox for robustness benchmarking!
+
+We will keep this fork for a while but may evantually delete it in the future.
 
 ## Introduction 
 
